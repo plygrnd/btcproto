@@ -27,4 +27,3 @@ class DataPuller(object):
             data = json.loads(requests.get(self.sources[source]))
             return data
 
-poo bum wee wee
